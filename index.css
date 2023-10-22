@@ -1,0 +1,35 @@
+
+.radius{
+    height:100px;
+    width:100px;
+    border-radius:100px;
+}
+    
+.the{
+    border-collapse: separate;
+    
+    padding-left: 200px;
+}
+.nice{
+    border-style:solid;
+    
+    padding:10px;
+    padding-right: 100px;
+    
+
+
+
+}
+.name{
+    padding-left: 200px;
+}
+.hii{
+    padding-left: 200px;;
+}
+.go{
+    border-collapse: separate;
+    padding:10px;
+    font-size:25px;
+    border-top-color:red ;
+    border-width: 20px;
+}
